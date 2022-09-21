@@ -1,0 +1,132 @@
+body {
+    background-color:#1F3B4D;
+}
+h1 {
+    color:#F8F0E3
+}
+h1 {
+    margin-top: 100px;
+    margin-left: 60px;
+    font-size: 100px;
+    font-family: 'Raleway', sans-serif;
+}
+h2 {
+    color:#F8F0E3
+}
+h2 {
+    margin-top: 0px;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+h3 {
+    color:#F8F0E3
+}
+h3 {
+    margin-top: 10px;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+h4 {
+    color:#F8F0E3
+}
+h4 {
+    margin-top: 90px;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    color: lightslategray
+}
+p {
+    margin-top: 10px;
+    margin-left: 60px;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+}
+#onehundo{
+    color: #f8f0E3;
+    font-weight: 100;
+    font-size: 15px;
+}
+#sevenhundo{
+    color: #f8f0E3;
+    font-weight: 700;
+    font-size: 15px;
+}
+#normal{
+    color: #f8f0E3;
+    font-weight: 400px;
+    font-size: 15px;
+}
+h5 {
+    color:lightslategray;
+    margin-top: 90px;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+#italic {
+    color: #f8f0E3;
+    font-weight: 400px;
+    font-size: 15px;
+    font-style: italic;
+}
+h6 {
+    color:lightslategray;
+    margin-top: 90px;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+#spacenormal {
+    color: #f8f0E3;
+    font-weight: 400px;
+    font-size: 15px;
+}
+#oneem {
+    color: #f8f0E3;
+    letter-spacing: 1px;
+}
+#fiveem {
+    color: #f8f0E3;
+    letter-spacing: -0.5px;
+}
+h6 {
+    color:lightslategray;
+    margin-top: 90px;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+#nonedecor {
+    color: #f8f0E3;
+}
+#underlinedecor {
+    color: #f8f0E3;
+    text-decoration: underline;
+}
+#strikethroughdecor {
+    color: #f8f0E3;
+    text-decoration: line-through;
+}
+#overlinedecor {
+    color: #f8f0E3;
+    text-decoration: overline;
+}
+#nonetransform {
+    color: #f8f0E3;
+}
+#uppercasetransform {
+    color: #f8f0E3;
+    text-transform: uppercase;
+}
+#lowercasetransform {
+    color: #f8f0E3;
+    text-transform: lowercase;
+}
+#capitalizetransform {
+    color: #f8f0E3;
+    text-transform: capitalize;
+    margin-bottom: 90px;
+}
