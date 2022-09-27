@@ -1,0 +1,96 @@
+body {
+    background-color: lightslategray;
+}
+h1 {
+    color:#F8F0E3
+}
+h1 {
+    margin-top: 100px;
+    margin-left: 60px;
+    margin-right: 200px;
+    font-size: 70px;
+    font-family: 'Raleway', sans-serif;
+}
+h2 {
+    color:#F8F0E3
+}
+h2 {
+    margin-top: 0px;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+h3 {
+    color:#F8F0E3
+}
+h3 {
+    margin-top: 10px;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+h4 {
+    color:#F8F0E3
+}
+h4 {
+    margin-top: 10px;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+h5 {
+    margin-top: 60px;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    color:#F8F0E3
+}
+#description {
+    margin-top: 8px;
+    margin-left: 60px;
+    margin-right: 600px;
+    font-size: 12px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 20px;
+    color:#F8F0E3
+}
+h6 {
+    margin-top: 60px;
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    color:#F8F0E3
+}
+#ingredients {
+    margin-top: 8px;
+    margin-left: 60px;
+    margin-right: 600px;
+    font-size: 12px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 20px;
+    color:#F8F0E3
+}
+#instructions {
+    margin-top: 8px;
+    margin-left: 60px;
+    margin-right: 600px;
+    font-size: 12px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 20px;
+    color:#F8F0E3
+}
+#recipewebsites {
+    margin-top: 8px;
+    margin-left: 60px;
+    margin-right: 600px;
+    font-size: 12px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 20px;
+    color:#F8F0E3
+}
+#cookie {
+    margin-left: 60px;
+}
+.peer {
+    margin-left: 60px;
+}
