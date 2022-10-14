@@ -1,0 +1,93 @@
+html {
+    font-family: 'Archivo Narrow', sans-serif;
+    line-height: 1.4;
+}
+
+.panel {
+    background-color: rgba(0,255,0,0.3);
+}
+
+.content-area {
+    background-color: rgba(255, 0, 0, 0.2);
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0;
+}
+
+#description {
+    color: white;
+}
+
+#intro .content-area {
+    text-align: center;
+}
+
+h1 {
+    font-size:80px;
+    margin: 0;
+    margin-top: 130px;
+    color: white;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 0;
+    line-height: 1;
+    margin-bottom: 170px;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+    margin-top: 17px;
+    color: white;
+
+}
+#intro {
+    background: url(https://ackland.org/wp-content/uploads/sites/1075/2019/12/Kusama-hero-e1580842235985.jpg);
+    background-size: 100%;
+}
+
+.dots {
+    height: 300px;
+    width: 400px;
+    float: right;
+    margin-top: 20px;
+    margin-left: 57px;
+    margin-bottom: 40px;
+    clear: both;
+}
+
+.photo {
+    height: 150px;
+    width: 200px;
+    float: left;
+    clear: both;
+    margin-right: 12px;
+    margin-bottom: 90px;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    column-gap: 30px;
+    row-gap: 24px;
+}
+
+div {
+    display: block;
+}
+
+.item {
+    display: flex;
+    width: 47%;
+}
+
+.text {
+    margin-left: 12px;
+    margin-bottom: 0;
+}
