@@ -1,0 +1,147 @@
+html {
+    font-family: 'Archivo Narrow', sans-serif;
+    line-height: 1.4;
+}
+
+.content-area {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0;
+}
+
+#description {
+    color: white;
+    background-color: black;
+}
+
+#intro .content-area {
+    text-align: center;
+}
+
+h1 {
+    font-size:80px;
+    margin: 0;
+    margin-top: 130px;
+    color: white;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 0;
+    line-height: 1;
+    margin-bottom: 170px;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+    margin-top: 17px;
+    color: white;
+
+}
+#intro {
+    background: url(https://ackland.org/wp-content/uploads/sites/1075/2019/12/Kusama-hero-e1580842235985.jpg);
+    background-size: 100%;
+}
+
+.dots {
+    height: 300px;
+    width: 400px;
+    float: right;
+    margin-top: 20px;
+    margin-left: 57px;
+    margin-bottom: 40px;
+    clear: both;
+}
+
+.photo {
+    height: 150px;
+    width: 200px;
+    float: left;
+    clear: both;
+    margin-right: 12px;
+    margin-bottom: 90px;
+}
+
+section#grid {
+    background-color: darkgrey;
+    padding-top: 1px;
+    padding-bottom: 562px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 2.38rem;
+    margin-bottom: 2rem;
+}
+
+ul.grid {
+    list-style: none;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+ul.grid li {
+    display: flex;
+    width: 50%;
+    margin-bottom: 22px;
+    float: left;
+}
+
+.pic {
+    width: 200px;
+    height: 150px;
+    float: left;
+}
+
+.tile {
+    margin-left: 0.8rem;
+    text-align: left;
+    padding-right: 24px;
+}
+
+h4 {
+    font-size: 1.25rem;
+    margin: 0px;
+    color: white;
+}
+
+p#paragraph2 {
+    display: block;
+    font-size: 18px;
+    line-height: 1.387;
+    color: white;
+    margin-top: 0.48rem;
+}
+
+p#paragraph3 {
+    text-align: center;
+    width: 710px;
+    font-size: 26px;
+    line-height: 36px;
+    margin-left: 125px;
+    color: white;
+}
+
+#footer {
+    background-color: darkgrey;
+    padding-top: 1px;
+    padding-bottom: 20px;
+}
+
+p#copyright {
+    font-size: 18px;
+    margin: 0;
+    margin-top: 38.5px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+#conclusion {
+    background-color: black;
+}
