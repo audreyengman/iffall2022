@@ -3,11 +3,12 @@ html {
     background-color: #f2f1fb;
 }
 
-@media (min-width: 700px) {
-    .body {
-        margin: 0 8% 0 8%;
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="title-heading"] {
+      width: 50%;
     }
-}
+  }
 
 .title-heading {
     width: 1000px;
@@ -40,7 +41,7 @@ h2 {
 }
 
 #intro {
-    background: url(file:///Users/audreyengman/OneDrive%20-%20Washington%20University%20in%20St.%20Louis/Junior%20YearA!/Interaction%20Design/iffall2022/publish/recipe/complete/images/muffins.jpg);
+    background: url(file:///Users/audreyengman/OneDrive%20-%20Washington%20University%20in%20St.%20Louis/Junior%20YearA!/Interaction%20Design/iffall2022/recipe/complete/images/muffins.jpg);
     background-size: cover;
     background-position: center 20%;
 }
